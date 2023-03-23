@@ -14,4 +14,9 @@ module.exports = ({ env }) => ({
     },
     debug: false,
   },
+  options: {
+    autoLoadModels: true,
+    autoReload: false,
+    populate: false,
+  },
 });
