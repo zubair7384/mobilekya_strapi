@@ -17,7 +17,8 @@
     "@strapi/strapi": "4.7.1",
     "better-sqlite3": "8.0.1",
     "pg": "^8.10.0",
-    "strapi-google-auth": "^0.1.2"
+    "strapi-google-auth": "^0.1.2",
+    "strapi-provider-upload-imagekit": "^4.0.2"
   },
   "author": {
     "name": "A Strapi developer"
